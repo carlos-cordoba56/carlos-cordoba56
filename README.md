@@ -10,18 +10,14 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco sobre mi...  
 
-```javascript
-const carlitos = {
+```python
+carlos = {
   pronouns: "he" | "him",
-  code: [Javascript, Python, Java, C, C++],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on Java and C++"
+  Lenguajes: [Español,Ingles],
+  menejo: [Python, Java],
+  Herramientas: [],
+  architecture: ["Patrones de Diseño", "Principios SOLID", "Diagramas UML"],
+  Retos: "Estoy construyendo conocimientos en la industria TI"
 }
 ```
 
