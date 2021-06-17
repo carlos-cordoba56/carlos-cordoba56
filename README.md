@@ -12,7 +12,6 @@
 
 ```python
 carlos = {
-  pronouns: "he" | "him",
   Lenguajes: [Español,Ingles],
   menejo: [Python, Java],
   Herramientas: [],
