@@ -1,6 +1,7 @@
-<h2> Hola, Soy Carlos Andrés Córdoba <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hola, Soy Carlos Andrés Córdoba </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Ingeniero Mecatrónico de la <a href="https://www.eia.edu.co/">Universidad EIA</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desarrollador en <a href="https://www.google.com.co">sin empleo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Ingeniero Mecatrónico de la <a href="https://www.eia.edu.co/">Universidad EIA</a>
+</br>Desarrollador en <a href="https://www.google.com.co">sin empleo</a>
 </em></p>
 
 [![Twitter: CarlosC41585540](https://img.shields.io/twitter/follow/CarlosC41585540?style=social)](https://twitter.com/CarlosC41585540)
@@ -11,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco sobre mi...  
 
 ```javascript
-const thai = {
+const carlitos = {
   pronouns: "he" | "him",
   code: [Javascript, Python, Java, C, C++],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
@@ -21,7 +22,7 @@ const thai = {
                         speaker: "Latinity",
                         mentor: "RailsGirls POA"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Java and C++"
 }
 ```
 
