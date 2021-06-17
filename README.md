@@ -12,11 +12,11 @@
 
 ```python
 carlos = {
-  Lenguajes: ["Español","Ingles"],
-  manejo: ["Python", "Java"],
-  Herramientas: [],
-  arquitectura: [],
-  Retos: "Estoy construyendo conocimientos en la industria TI"
+  'Lenguajes': ["Español","Ingles"],
+  'manejo': ["Python", "Java"],
+  'herramientas': [],
+  'arquitectura': [],
+  'retos': "Estoy construyendo conocimientos en la industria TI"
 }
 ```
 
