@@ -11,13 +11,12 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco sobre mi...  
 
 ```python
-carlos = {
-  'Lenguajes': ["Español","Ingles"],
-  'manejo': ["Python", "Java"],
-  'herramientas': [],
-  'arquitectura': [],
-  'retos': "Estoy construyendo conocimientos en la industria TI"
-}
+class Carlos:
+  def __init__(self):
+    self.idiomas = ["Español","Ingles"]
+    self.lenguajes = [python, Java]
+    self.conocimientos = []
+    self.herramientas = []
 ```
 
 ---
