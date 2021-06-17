@@ -12,8 +12,8 @@
 
 ```python
 carlos = {
-  Lenguajes: [Español,Ingles],
-  menejo: [Python, Java],
+  Lenguajes: ["Español","Ingles"],
+  menejo: ["Python", "Java"],
   Herramientas: [],
   architecture: ["Patrones de Diseño", "Principios SOLID", "Diagramas UML"],
   Retos: "Estoy construyendo conocimientos en la industria TI"
