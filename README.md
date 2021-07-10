@@ -14,7 +14,7 @@
 class Carlos:
   def __init__(self):
     self.idiomas = ["Español","Ingles"]
-    self.lenguajes = [python, Java]
+    self.lenguajes = ["Python", "Java"]
     self.conocimientos = ["Principios SOLID","Patrones de Diseño","Diagramas UML"]
     self.herramientas = []
 ```
