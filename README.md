@@ -1,6 +1,6 @@
 <h2> Hola, Soy Carlos Andrés Córdoba </h2>
 <p><em>Ingeniero Mecatrónico de la <a href="https://www.eia.edu.co/">Universidad EIA</a>
-</br>Desarrollador en <a href="https://www.google.com.co">sin empleo</a>
+</br>Desarrollador en <a href="https://www.globant.com/">Globant</a>
 </em></p>
 
 [![Twitter: CarlosC41585540](https://img.shields.io/twitter/follow/CarlosC41585540?style=social)](https://twitter.com/CarlosC41585540)
