@@ -16,7 +16,7 @@ class Carlos:
     self.idiomas = ["Español","Ingles"]
     self.lenguajes = ["Python", "Java", "Javascript"]
     self.conocimientos = ["Principios SOLID","Patrones de Diseño","Diagramas UML"]
-    self.herramientas = ["Flask", "Django"]
+    self.herramientas = ["Flask", "Django", "FasAPI"]
 ```
 
 ---
